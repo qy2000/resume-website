@@ -198,7 +198,7 @@ p {
 }
 
 #header .logo {
-  font-size: 30px;
+  font-size: 24px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -586,6 +586,10 @@ p {
   background: #f7f7f7;
   position: relative;
   padding-bottom: 80px;
+}
+
+.services-block {
+  margin-left: 20px;
 }
 
 .services-block span {
