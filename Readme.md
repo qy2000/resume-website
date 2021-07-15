@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+https://liuqingyi.netlify.app/
 
 Template Name: Folio
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
