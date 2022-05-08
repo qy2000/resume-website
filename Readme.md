@@ -1,6 +1,6 @@
 https://liuqingyi.netlify.app/
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+Template Name: DevFolio
+Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
